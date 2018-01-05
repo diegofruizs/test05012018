@@ -1,0 +1,23 @@
+{
+  "name": "task-web",
+  "version": "0.0.1",
+  "description": "Hola mundo con Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Hola",
+    "mundo"
+  ],
+  "author": "Diego Ruiz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "angular": "^1.6.6",
+    "bootstrap": "^4.0.0-beta",
+    "@uirouter/angularjs": "^1.0.6",
+    "angular-ui-bootstrap": "^2.5.0"
+  }
+}
